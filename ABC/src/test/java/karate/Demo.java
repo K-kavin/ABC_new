@@ -9,6 +9,6 @@ import cucumber.api.CucumberOptions;
 public class Demo {
 	private void sysout() {
 		// TODO Auto-generated method stub
-
+		System.out.println();
 	}
 }
